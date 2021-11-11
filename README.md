@@ -1,0 +1,1 @@
+# Landslides_Prediction_SatelliteImages
