@@ -1,5 +1,12 @@
 # Landslides_Prediction_SatelliteImages
 
+# Author
+- Bahman Sheikh
+- Te Pei
+
+# Programming Language
+- Python
+
 # Introduction
 Landslides are common disasters caused by soil mass movement defined as the movement of a mass or soils down a slope 
 Heavy precipitation including rainfall and snowmelt is the most common landslide trigger
