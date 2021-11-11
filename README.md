@@ -43,3 +43,6 @@ Predictor variables:
 ![image](IMG/10.png)
 ![image](IMG/11.png)
 ![image](IMG/12.png)
+![image](IMG/13.png)
+![image](IMG/14.png)
+![image](IMG/15.png)
